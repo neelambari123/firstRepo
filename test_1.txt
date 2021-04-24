@@ -1,3 +1,5 @@
 adding few liness ..
 
 second changes
+
+git ammendment 1
